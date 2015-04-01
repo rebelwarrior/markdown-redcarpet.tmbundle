@@ -1,4 +1,6 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
+#! /usr/bin/ruby
+
+###!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
 
 # Usage: redcarpet [<file>...]
 # Convert one or more Markdown files to HTML and write to standard output. With
